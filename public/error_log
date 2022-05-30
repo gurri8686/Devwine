@@ -1,0 +1,375 @@
+[09-Mar-2022 10:11:02 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:02 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:02 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:11:22 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:22 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:22 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:11:50 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:50 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:11:50 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:12:05 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:12:05 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:12:05 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:13:20 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:13:20 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:13:20 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:02 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:02 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:02 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:05 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:05 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:05 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:05 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:05 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:05 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:16 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:16 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:16 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:18 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:18 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:18 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:22 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:22 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:22 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:26 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:26 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:26 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:27 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:27 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:27 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:14:30 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:30 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:14:30 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:15:08 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:08 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:08 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:15:12 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:12 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:12 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:15:58 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:58 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:58 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:15:59 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:59 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:15:59 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:16:32 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:16:32 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:16:32 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:17:14 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:14 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:14 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:17:17 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:17 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:17 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[09-Mar-2022 10:17:20 America/Chicago] PHP Warning:  include(/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:20 America/Chicago] PHP Warning:  include(): Failed opening '/home3/winecnds/dev_site/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/vendor/composer/ClassLoader.php on line 444
+[09-Mar-2022 10:17:20 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\A in /home3/winecnds/dev_site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[15-Mar-2022 18:03:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home3/winecnds/dev_site/app/Http/Controllers/UserController.php on line 87
+[21-Mar-2022 16:34:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/winecnds/dev_site/app/Http/Controllers/VendorController.php on line 73
+[22-Mar-2022 15:47:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/winecnds/dev_site/app/Http/Controllers/VendorController.php on line 74
+[22-Mar-2022 15:54:21 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/winecnds/dev_site/app/Http/Controllers/VendorController.php on line 74
+[27-Mar-2022 16:46:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\VendorController::accomodation() in /home3/winecnds/dev_site/app/Http/Controllers/VendorController.php on line 133
+[27-Mar-2022 16:47:52 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\VendorController::accomodation() in /home3/winecnds/dev_site/app/Http/Controllers/VendorController.php on line 133
+[01-Apr-2022 09:58:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/6ded95bdcfa3a716e0edeca967bab9985dd4a182.php on line 73
+[01-Apr-2022 09:58:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/6ded95bdcfa3a716e0edeca967bab9985dd4a182.php on line 73
+[04-May-2022 04:49:02 America/Chicago] PHP Warning:  move_uploaded_file(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 28
+[04-May-2022 04:49:02 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpprsweF' to 'images/tmp/avatar_1.jpg' in /home3/winecnds/dev_site/public/change_pic.php on line 28
+[04-May-2022 04:50:51 America/Chicago] PHP Warning:  move_uploaded_file(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 28
+[04-May-2022 04:50:51 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuBGEoS' to 'images/tmp/avatar_1.jpg' in /home3/winecnds/dev_site/public/change_pic.php on line 28
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:52:48 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:52:53 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:53 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:52:53 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 04:52:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:52:53 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:53:02 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:53:02 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 04:53:02 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 04:53:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 04:53:02 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 05:07:52 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 05:07:52 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 05:07:52 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 05:07:52 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 05:07:52 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 06:09:33 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 06:09:33 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 06:09:33 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 06:09:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 06:09:33 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 06:09:38 America/Chicago] PHP Warning:  include_once(db_connect.php): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 06:09:38 America/Chicago] PHP Warning:  include_once(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/winecnds/dev_site/public/change_pic.php on line 56
+[04-May-2022 06:09:38 America/Chicago] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 60
+[04-May-2022 06:09:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 06:09:38 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/winecnds/dev_site/public/change_pic.php on line 61
+[04-May-2022 06:20:48 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:20:48 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:20:48 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:20:58 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:20:58 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:20:58 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:21:05 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:21:05 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:21:05 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:22:04 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:22:04 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:22:04 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:22:13 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:22:13 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:22:13 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:33:42 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:33:42 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:33:42 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:34:53 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:34:53 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:34:53 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:34:53 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:49:32 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:49:32 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:49:32 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:49:32 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:49:44 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:49:44 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:49:44 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:49:44 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:51:21 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:51:21 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:51:21 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:51:21 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:53:51 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:53:51 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:53:51 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:53:51 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:57:03 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:57:03 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:57:03 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:57:03 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:57:32 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:57:32 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:57:32 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:57:32 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 06:58:25 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:58:25 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 06:58:25 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 06:58:25 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:02:55 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:02:55 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:02:55 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:02:55 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:04:22 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:04:24 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:24 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:04:24 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:04:24 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:08:54 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:08:54 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:08:54 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:08:54 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:09:39 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:09:39 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:09:39 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:09:39 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:12:11 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:12:11 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:12:11 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:12:11 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:12:26 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:12:26 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:12:26 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:12:26 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:13:31 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:13:31 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:13:31 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:13:31 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/winecnds/dev_site/public/change_pic.php on line 80
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  Division by zero in /home3/winecnds/dev_site/public/change_pic.php on line 80
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/winecnds/dev_site/public/change_pic.php on line 81
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/winecnds/dev_site/public/change_pic.php on line 82
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home3/winecnds/dev_site/public/change_pic.php on line 83
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 84
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home3/winecnds/dev_site/public/change_pic.php on line 85
+[04-May-2022 07:15:00 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:16:09 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:16:10 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:16:10 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 87
+[04-May-2022 07:16:10 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:17:00 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:17:00 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:17:00 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 87
+[04-May-2022 07:17:00 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:18:33 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:18:33 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'images/temp/' is not a valid JPEG file in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:18:33 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 87
+[04-May-2022 07:18:33 America/Chicago] PHP Warning:  imagejpeg(images/temp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:30:08 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 86
+[04-May-2022 07:30:08 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 87
+[04-May-2022 07:30:08 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:31:11 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:31:11 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 89
+[04-May-2022 07:31:11 America/Chicago] PHP Warning:  imagejpeg(images/tmp/): failed to open stream: Is a directory in /home3/winecnds/dev_site/public/change_pic.php on line 90
+[04-May-2022 07:46:47 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:46:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 89
+[04-May-2022 07:46:47 America/Chicago] PHP Warning:  imagejpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 90
+[04-May-2022 07:49:47 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:49:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 89
+[04-May-2022 07:49:47 America/Chicago] PHP Warning:  imagejpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 90
+[04-May-2022 07:51:25 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 88
+[04-May-2022 07:51:25 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home3/winecnds/dev_site/public/change_pic.php on line 89
+[04-May-2022 07:51:25 America/Chicago] PHP Warning:  imagejpeg(images/tmp/avatar_1.jpg): failed to open stream: No such file or directory in /home3/winecnds/dev_site/public/change_pic.php on line 90
+[09-May-2022 10:03:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/253f30c3be6d3f5230999ba9860f901ad8a39295.php on line 3
+[11-May-2022 05:45:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/2d31ce1ee75f3da49132ec002e988a2057a1f594.php on line 19
+[11-May-2022 05:45:41 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/2d31ce1ee75f3da49132ec002e988a2057a1f594.php on line 19
+[11-May-2022 05:47:05 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/storage/framework/views/2d31ce1ee75f3da49132ec002e988a2057a1f594.php on line 19
+[13-May-2022 10:44:28 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/winecnds/dev_site/storage/framework/views/232a28af6b30a80168dbfc8314a262e55a0b54d7.php on line 6
+[13-May-2022 10:44:46 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/winecnds/dev_site/storage/framework/views/232a28af6b30a80168dbfc8314a262e55a0b54d7.php on line 6
+[13-May-2022 10:45:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/winecnds/dev_site/storage/framework/views/232a28af6b30a80168dbfc8314a262e55a0b54d7.php on line 6
+[13-May-2022 13:29:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home3/winecnds/dev_site/app/Http/Controllers/UserController.php on line 39
